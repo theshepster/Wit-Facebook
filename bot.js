@@ -63,6 +63,15 @@ const actions = {
 
     cb(context);
   },
+  extractMovie(sessionId, context, entities, message, cb) {
+    // Retrieve the location entity and store it into a context field
+    const movieKey = firstEntityValue(entities, 'movie');
+    if (movieKey) {
+      context.movieKey = movieKey; // store it in context
+    }
+
+    cb(context);
+  },
 
   error(sessionId, context, error) {
     console.log(error.message);
