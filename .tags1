@@ -1,0 +1,9 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+say	/Users/theshepster/Google Drive/Harvard/2016 Summer/CS50/Wit-Facebook/bot.js	/^  say(sessionId, context, message, cb) {$/;"	function	line:22
+merge	/Users/theshepster/Google Drive/Harvard/2016 Summer/CS50/Wit-Facebook/bot.js	/^  merge(sessionId, context, entities, message, cb) {$/;"	function	line:57
+error	/Users/theshepster/Google Drive/Harvard/2016 Summer/CS50/Wit-Facebook/bot.js	/^  error(sessionId, context, error) {$/;"	function	line:67

@@ -1,0 +1,3 @@
+say	/Users/theshepster/Google Drive/Harvard/2016 Summer/CS50/Wit-Facebook/bot.js	/^  say(sessionId, context, message, cb) {$/;"	function	line:22
+merge	/Users/theshepster/Google Drive/Harvard/2016 Summer/CS50/Wit-Facebook/bot.js	/^  merge(sessionId, context, entities, message, cb) {$/;"	function	line:57
+error	/Users/theshepster/Google Drive/Harvard/2016 Summer/CS50/Wit-Facebook/bot.js	/^  error(sessionId, context, error) {$/;"	function	line:67
